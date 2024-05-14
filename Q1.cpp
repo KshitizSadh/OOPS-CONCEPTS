@@ -29,7 +29,7 @@ int main(int argc, char *argv[]) {
     }
 
     double sum = computeSeriesSum(n);
-    cout << "Sum of the first " << n << " terms of the series: " << sum << std::endl;
+    cout << "Sum of the first " << n << " terms of the series: " << sum << endl;
 
     return 0;
 }
